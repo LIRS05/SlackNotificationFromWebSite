@@ -60,8 +60,6 @@
 
 <?php 
 
-//LAVORO : https://hooks.slack.com/services/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
-// SUPPORT TECNICO :   https://hooks.slack.com/services/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
 
 $p_mess= $_POST['messaggio'];
 
