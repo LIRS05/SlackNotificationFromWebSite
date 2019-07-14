@@ -54,7 +54,6 @@
 <div class="row">
     <div class="col-md-2"></div>
     
-    <!---------FORM INVIO ------------>
      <div class="col-md-8">
 
 
